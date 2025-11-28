@@ -1,0 +1,1 @@
+/home/ezybakeoven/.config/omarchy/current/theme/neovim.lua
